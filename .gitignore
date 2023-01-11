@@ -1,0 +1,6 @@
+analysis/*/*.csv
+analysis/*.csv
+analysis/*/*.h5
+analysis/*.h5
+analysis/*/*/*.csv
+analysis/*/*/*.h5
